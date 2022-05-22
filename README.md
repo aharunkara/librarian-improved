@@ -1,4 +1,7 @@
 # librarian-improved
+
+this is an improved version of the code challenge i completed for an interview, old version: https://github.com/harunkara94/library-management
+
 Instructions to try out library class.
 
 * clone the repo to your computer.
